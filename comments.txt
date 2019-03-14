@@ -1,0 +1,12 @@
+TODO : delete this file and write the instruction in README.md file
+
+
+
+1. Credentials required to run this are : 
+
+	WebServer Creds : defined in config/config.php
+	Payment portal Creds : defined in payment/
+
+2. Coding style followed 
+
+3. Description of file and folders to be added
